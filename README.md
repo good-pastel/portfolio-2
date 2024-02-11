@@ -25,7 +25,7 @@
 
 This is my personal portfolio-2.
 
-&copy Good Pastel. 2024
+&copy; Good Pastel. 2024
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
