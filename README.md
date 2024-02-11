@@ -1,6 +1,6 @@
-# good-pastel.github.io
+# Portfolio - 2
 
-> [[good-pastel](https://good-pastel.github.io)]
+> [[good-pastel](https://good-pastel.github.io/portfolio-2)]
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
